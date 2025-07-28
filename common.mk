@@ -511,3 +511,5 @@ PRODUCT_PACKAGES += \
 # Viper4Android
 $(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
 
+DERPFEST_BUILD_TYPE := Community
+TARGET_DISABLE_EPPE := true
