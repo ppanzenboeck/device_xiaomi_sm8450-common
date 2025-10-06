@@ -506,7 +506,7 @@ PRODUCT_PACKAGES += \
     firmware_qca6750_wlan_mac.bin_symlink
 
 # Derpfest build type
-DERPFEST_BUILD_TYPE := Community
+DERPFEST_BUILD_TYPE := Offical
 
 # Remove Packages
 PRODUCT_PACKAGES += \
