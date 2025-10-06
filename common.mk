@@ -515,3 +515,6 @@ PRODUCT_PACKAGES += \
 # Viper4Android
 $(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
 
+# Overlays-derp
+DEVICE_PACKAGE_OVERLAYS += \
+    $(LOCAL_PATH)/overlay-lineage
