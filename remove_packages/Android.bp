@@ -21,7 +21,6 @@ android_app_import {
          "FossifyGallery",
          "Jelly",
          "Etar",
-         "Aperture",
      ],
  	dex_preopt: {
  		enabled: false,
