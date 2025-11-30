@@ -510,3 +510,6 @@ $(call inherit-product, packages/apps/ViPER4AndroidFX/config.mk)
 # Overlays-derp
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay-lineage
+
+# GameBar Performance Overlay
+$(call inherit-product, packages/apps/GameBar/gamebar.mk)
