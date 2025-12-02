@@ -39,4 +39,30 @@
         <item>apple</item>
         <item>whatsapp</item>
     </string-array>
+    <string-array name="quickspace_psa_random">
+        <item>Set JetBrains Mono font.</item>
+        <item>JetBrains Mono is a gamechanger.</item>
+        <item>By P.A.N.Z.</item>
+        <item>Yours truly, P.A.N.Z.</item>
+        <item>Ever tried arch linux (btw)?</item>
+        <item>Never asking for donations</item>
+        <item>Divided by distance, united by DerpFest</item>
+        <item>You know I\'m not a huge fan of social media apps...</item>
+        <item>Patience is key</item>
+        <item>Quality \u003E Quantity, always.</item>
+        <item>Turns out being nice to people makes them be nice in return.</item>
+        <item>No bugs without logs? I don\'t do that.</item>
+        <item>I understand that users are users, not developers.</item>
+        <item>So... you\'re still using Windows?</item>
+        <item>I wish LineageOS would care more about tablets...</item>
+        <item>Hide the pill Harold</item>
+        <item>Please hide the pill.</item>
+        <item>Please just hide the pill.</item>
+        <item>Adb driver not found? Use linux.</item>
+        <item>Using linux is faster than fixing your Windows driver issues.</item>
+        <item>Never give up without a fight!</item>
+        <item>Gesture navigation hint serves no purpose</item>
+        <item>Click me!</item>
+        <item>Click me!</item>
+    </string-array>
 </resources>

@@ -499,6 +499,7 @@ PRODUCT_PACKAGES += \
 
 # Derpfest build type
 DERPFEST_BUILD_TYPE := Offical
+DERPFEST_VERSION_APPEND_TIME_OF_DAY := true
 
 # Remove Packages
 PRODUCT_PACKAGES += \
