@@ -12,7 +12,7 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="derpfest_maintainer" translatable="false">Bomboozler and P.A.N.Z.</string>
+    <string name="derpfest_maintainer" translatable="false">P.A.N.Z.</string>
     <!--
     keep should it come back
     <string name="maintainer_github" translatable="false">https://github.com/bomboozler</string>
