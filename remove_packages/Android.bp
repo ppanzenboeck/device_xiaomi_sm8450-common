@@ -20,7 +20,8 @@ android_app_import {
          "Accord",
          "FossifyGallery",
          "Jelly",
-         "Etar",
+         "Gemini",
+         "DeskClockGoogle",
      ],
  	dex_preopt: {
  		enabled: false,
